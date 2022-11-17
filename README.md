@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @buinguyenthuynhu
+<h1 align="center"> 👋 Hi, I’m @buinguyenthuynhu
+
+  
 - 👀 I’m interested in Data Analysis and Business Analysis
 - 🌱 I’m currently learning ML
 - Also, I can play Guzheng as smooth as typing code :))))
